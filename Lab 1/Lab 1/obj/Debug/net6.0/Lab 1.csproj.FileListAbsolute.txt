@@ -1,0 +1,15 @@
+D:\Study\PA Labs\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+D:\Study\PA Labs\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+D:\Study\PA Labs\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+D:\Study\PA Labs\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+D:\Study\PA Labs\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+D:\Study\PA Labs\Lab 1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
