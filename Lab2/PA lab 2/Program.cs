@@ -121,7 +121,7 @@ namespace PA_lab_2
             //                        {0,4,3},
             //                        {7,6,5}  };
 
-            Console.WriteLine("Enter state in liniar form (for example 174563208):");
+            Console.WriteLine("Enter state in liniar form (for example 230157486):");
             string? str = Console.ReadLine();
             int[,]? f = ConvertData(str);
 

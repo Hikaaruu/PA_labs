@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tccXuvb/nWI13oXoC3p8H6ozLCz/RN+/sfVtjKuwR+SLqavZGhpnGs2BkfZldeiPzX638pFBuzLNuFLxXZuDNw==",
+  "dgSpecHash": "RJ5J8++VXNsb18x57eIn8S+Mq8Y413oSQG43wtoO5c7lU9X5k3stYaOmwBMRBJzfof/+EMRCHfCqr26YBgTnrA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\PA Labs\\PA lab 2\\PA lab 2.nUnitTests\\PA lab 2.nUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\FARM_KRIPOV\\Documents\\Repos\\PA_labs\\Lab2\\PA lab 2.nUnitTests\\PA lab 2.nUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FARM_KRIPOV\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\FARM_KRIPOV\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

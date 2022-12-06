@@ -13,3 +13,18 @@ D:\Study\PA Labs\PA lab 2\PA lab 2\obj\Debug\net6.0\refint\PA lab 2.dll
 D:\Study\PA Labs\PA lab 2\PA lab 2\obj\Debug\net6.0\PA lab 2.pdb
 D:\Study\PA Labs\PA lab 2\PA lab 2\obj\Debug\net6.0\PA lab 2.genruntimeconfig.cache
 D:\Study\PA Labs\PA lab 2\PA lab 2\obj\Debug\net6.0\ref\PA lab 2.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\bin\Debug\net6.0\PA lab 2.exe
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\bin\Debug\net6.0\PA lab 2.deps.json
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\bin\Debug\net6.0\PA lab 2.runtimeconfig.json
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\bin\Debug\net6.0\PA lab 2.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\bin\Debug\net6.0\PA lab 2.pdb
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.csproj.AssemblyReference.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.AssemblyInfoInputs.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.AssemblyInfo.cs
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.csproj.CoreCompileInputs.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\refint\PA lab 2.dll
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.pdb
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\PA lab 2.genruntimeconfig.cache
+C:\Users\FARM_KRIPOV\Documents\Repos\PA_labs\Lab2\PA lab 2\obj\Debug\net6.0\ref\PA lab 2.dll
