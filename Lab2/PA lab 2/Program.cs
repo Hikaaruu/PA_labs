@@ -113,14 +113,7 @@ namespace PA_lab_2
 
         static void Main(string[] args)
         {
-
-            
             timeAndRamControl.Start(); 
-
-            //int[,] f = new int[,] { {8,1,2},
-            //                        {0,4,3},
-            //                        {7,6,5}  };
-
             Console.WriteLine("Enter state in liniar form (for example 230157486):");
             string? str = Console.ReadLine();
             int[,]? f = ConvertData(str);
